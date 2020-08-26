@@ -12,10 +12,10 @@ Digite o intervalo de números: "Exemplo: 25. Isso irá gerar números aleatóri
 
 resultado:
 
-5 5 1 7 2 8 <br>
-7 4 6 1 7 8 <br>
-3 0 8 2 8 3 <br>
-0 3 3 8 6 3 <br>
-1 6 1 6 1 6 <br>
+20 18 0 4 10 17 <br>
+22 24 24 16 7 13 <br>
+16 14 2 24 10 21 <br>
+18 13 13 14 23 17 <br>
+12 6 24 5 9 14 <br>
 
 
