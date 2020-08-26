@@ -12,9 +12,11 @@ int main(){
 	printf("\n");
 	printf("Digite o tamanho da matriz (axb): ");
 	scanf("%d %d", &a, &b);
-	printf("Digite o intervalo dos números aleatórios: ")
+	printf("Digite o intervalo dos números aleatórios: ");
 	scanf("%d", &c);
 	int matriz[a][b];
+
+		printf("------------------------------------------------\n");
 		for(i = 0; i < a; i ++){
 			for(j = 0; j < b; j++){
 				aleatorio = rand() % c; //Tem a função de gerar números pseudo-aleatórios
