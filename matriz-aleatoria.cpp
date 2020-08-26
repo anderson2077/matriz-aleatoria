@@ -16,7 +16,8 @@ int main(){
 		for(i = 0; i < a; i ++){
 			for(j = 0; j < b; j++){
 				aleatorio = rand() % 9; //Tem a função de gerar números pseudo-aleatórios
-				matriz[i][j] = aleatorio; //Preenche a matriz com números aleatórios				printf("%d ", matriz[i][j]);
+				matriz[i][j] = aleatorio; //Preenche a matriz com números aleatórios			
+				printf("%d ", matriz[i][j]);
 				if(j == (b-1)){
 					printf("\n");
 				}
