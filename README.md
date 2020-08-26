@@ -7,8 +7,8 @@ $ ./matriz-aleatoria
 
 ======GERADOR DE MATRIZES======
 
-Digite o tamanho da matriz (axb): "Aqui digite dois números separados por espaço. Exemplo: 5 6"
-Digite o intervalo de números: "Exemplo: 25. Isso irá gerar números aleatórios entre 0 e 25."
+Digite o tamanho da matriz (axb): "Aqui digite dois números separados por espaço. Exemplo: 5 6"<br>
+Digite o intervalo de números: "Exemplo: 25. Isso irá gerar números aleatórios entre 0 e 25."<br>
 
 resultado:
 
